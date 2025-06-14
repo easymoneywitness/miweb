@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ahora mismo cambie el texto
+=======
+Hola papi
+>>>>>>> rama1
