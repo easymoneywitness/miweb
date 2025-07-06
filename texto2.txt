@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Ahora mismo cambie el texto
-=======
-Hola papi
->>>>>>> rama1
-=======
-Hola papi
->>>>>>> rama1
